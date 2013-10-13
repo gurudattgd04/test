@@ -1,0 +1,1203 @@
+id: 0-2.0.r2/0
+type: file
+count: 0
+text: 1 0 340 1081 bdf11772fbe9244674b5763dc6140065 2ee9e3feca71695306905b95434b4b234fad1b1f 1-1/_2
+cpath: /.classpath
+copyroot: 0 /
+
+id: 3-2.0.r2/169
+type: file
+count: 0
+text: 1 353 238 559 6c7956341c6fc9d7483a3cc36db4431e 4aadba4c3c08e092dfaebfb95a741d9d9d280c27 1-1/_4
+cpath: /.project
+copyroot: 0 /
+
+id: 6-2.0.r2/339
+type: file
+count: 0
+text: 1 604 132 119 783d5df65f39a4ac459878838f8e92b6 0d78a989c585aac6e6244dedcef06df92d4ea31b 1-1/_8
+cpath: /.settings/org.eclipse.core.resources.prefs
+copyroot: 0 /
+
+id: 9-2.0.r2/543
+type: file
+count: 0
+text: 1 749 260 243 64aecbe3404316d6bc0dcc053667a8d1 f068fb154d4f9d12df59ad449e4801b8651b257e 1-1/_a
+cpath: /.settings/org.eclipse.jdt.core.prefs
+copyroot: 0 /
+
+id: b-2.0.r2/741
+type: file
+count: 0
+text: 1 1022 103 90 66985cccd6a27c2401be11bc75d9ea23 a112be21c325d37ebc17baafd40c0386b5d09df1 1-1/_c
+cpath: /.settings/org.eclipse.m2e.core.prefs
+copyroot: 0 /
+
+PLAIN
+K 32
+org.eclipse.core.resources.prefs
+V 17
+file 6-2.0.r2/339
+K 26
+org.eclipse.jdt.core.prefs
+V 17
+file 9-2.0.r2/543
+K 26
+org.eclipse.m2e.core.prefs
+V 17
+file b-2.0.r2/741
+END
+ENDREP
+id: 5-2.0.r2/1127
+type: dir
+count: 0
+text: 2 939 175 0 24aa6e457f4a7e691e993df558ff4e76
+cpath: /.settings
+copyroot: 0 /
+
+id: d-2.0.r2/1248
+type: file
+count: 0
+text: 1 1138 280 263 eb087237ec22ea2e00a5984e94f71e73 c3328a66d6ad798eb58f711bcd1714fcc3b2632f 1-1/_e
+cpath: /App.xml
+copyroot: 0 /
+
+id: f-2.0.r2/1419
+type: file
+count: 0
+text: 1 1431 63 51 0218640b9c2e7f7e9c702980cdd45ab0 7073001a0fe23d10084d11d25fa949353a142ab2 1-1/_g
+cpath: /Config.properties
+copyroot: 0 /
+
+id: h-2.0.r2/1598
+type: file
+count: 0
+text: 1 1507 759 2563 7761dfc8cb054f183c9c5234a585d1fc f05a73330307a8333bd6e63ae5518f7017d3f32d 1-1/_i
+cpath: /pom.xml
+copyroot: 0 /
+
+id: q-2.0.r2/1770
+type: file
+count: 0
+text: 1 2279 94 81 15e8a1cee49d4be72887c562484d88af dbaa562db7b926a38ef88c5d8f0133bff36da215 1-1/_s
+cpath: /src/main/java/Libraries/EnumTest.java
+copyroot: 0 /
+
+id: t-2.0.r2/1969
+type: file
+count: 0
+text: 1 2386 483 776 b2b3527411cfd1c2b891b9d3983ac313 2e46bc4299581c7c0906bed7ef24b18c9e85ecb1 1-1/_u
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /src/main/java/Libraries/PropertiesFileReader.class
+copyroot: 0 /
+
+id: v-2.0.r2/2236
+type: file
+count: 0
+text: 1 2882 760 945 0d0c56c842da2ea503219ee98b03c56f b3957acf864e414fcd9af6b8d688cca60c894cf3 1-1/_w
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /src/main/java/Libraries/PropertiesFileReader.jar
+copyroot: 0 /
+
+id: x-2.0.r2/2501
+type: file
+count: 0
+text: 1 3655 277 536 32631de9e36971ff367b0f2bd70e67f6 b7d9ffd2503b8544a4a87e82d0669b2eaa7bbbae 1-1/_y
+cpath: /src/main/java/Libraries/PropertiesFileReader.java
+copyroot: 0 /
+
+id: z-2.0.r2/2714
+type: file
+count: 0
+text: 1 3945 1047 2063 ca3c657e93f76d346965e55e36353d39 cebef8821ea501a80a89be5e91dbd1c3abc3d21b 1-1/_10
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /src/main/java/Libraries/XMLReader.class
+copyroot: 0 /
+
+id: 11-2.0.r2/2973
+type: file
+count: 0
+text: 1 5005 1343 1487 af8bdf0ed795222eb414e3895a6d705b 877cd2b9082b1cabb61310f2637c74bdb5499623 1-1/_12
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /src/main/java/Libraries/XMLReader.jar
+copyroot: 0 /
+
+id: 13-2.0.r2/3231
+type: file
+count: 0
+text: 1 6361 649 2017 ef443d1fe076a54b662b2f3fb17f31f5 523d8bc38d92d4c0ffcfde3f693089b8d78d9b98 1-1/_14
+cpath: /src/main/java/Libraries/XMLReader.java
+copyroot: 0 /
+
+id: 15-2.0.r2/3436
+type: file
+count: 0
+text: 1 7023 309 640 7fd2941feea28ce5559fdf1e5122959b 0c3d2e689ed60e05f74085a2ce650a07531f0abc 1-1/_16
+cpath: /src/main/java/Libraries/switchTest.java
+copyroot: 0 /
+
+PLAIN
+K 13
+EnumTest.java
+V 18
+file q-2.0.r2/1770
+K 26
+PropertiesFileReader.class
+V 18
+file t-2.0.r2/1969
+K 24
+PropertiesFileReader.jar
+V 18
+file v-2.0.r2/2236
+K 25
+PropertiesFileReader.java
+V 18
+file x-2.0.r2/2501
+K 15
+XMLReader.class
+V 18
+file z-2.0.r2/2714
+K 13
+XMLReader.jar
+V 19
+file 11-2.0.r2/2973
+K 14
+XMLReader.java
+V 19
+file 13-2.0.r2/3231
+K 15
+switchTest.java
+V 19
+file 15-2.0.r2/3436
+END
+ENDREP
+id: o-2.0.r2/4046
+type: dir
+count: 0
+text: 2 3641 392 0 3e641445f67e360d8b5a16e3593ae428
+cpath: /src/main/java/Libraries
+copyroot: 0 /
+
+id: 18-2.0.r2/4182
+type: file
+count: 0
+text: 1 7345 716 2124 6abb44ff9ac3e871ac08d0d8c2552651 27428854f6bfac8b3517cf37908c1ff8e69d5b64 1-1/_1a
+cpath: /src/main/java/PegasusPages/ActionDriver.java
+copyroot: 0 /
+
+id: 1b-2.0.r2/4393
+type: file
+count: 0
+text: 1 8074 427 805 8614d6f845a05109f7b29c7c8eeca42a 918f3da1deff39adf81bae7dbb1bfbfef9e8512f 1-1/_1c
+cpath: /src/main/java/PegasusPages/ContentBrowser.java
+copyroot: 0 /
+
+id: 1d-2.0.r2/4605
+type: file
+count: 0
+text: 1 8514 493 956 95d8c5fed1a0d62100687a0512016404 8d0d298913b37bd3a0bd5eb678d91d08bb48c163 1-1/_1e
+cpath: /src/main/java/PegasusPages/HEDGlobalHome.java
+copyroot: 0 /
+
+id: 1f-2.0.r2/4816
+type: file
+count: 0
+text: 1 9020 397 932 d281b888258a0d606327cbdeff565c19 11e39779f640dc9ed1e32801b5ae87f6b6ea5249 1-1/_1g
+cpath: /src/main/java/PegasusPages/PreferencesMainUX.java
+copyroot: 0 /
+
+id: 1h-2.0.r2/5031
+type: file
+count: 0
+text: 1 9430 887 2618 c70364a93ef3b15846da75624416054a 15bfa0d4c4a12886ac0803984927146ba356d3ca 1-1/_1i
+cpath: /src/main/java/PegasusPages/TeachingPlanUX.java
+copyroot: 0 /
+
+id: 1j-2.0.r2/5244
+type: file
+count: 0
+text: 1 10330 348 698 083aa2beb6a6547abf10bba611198aa2 b908aa0f78836415fa709448b2533e91983ca4fe 1-1/_1k
+cpath: /src/main/java/PegasusPages/TodaysViewUX.java
+copyroot: 0 /
+
+id: 1l-2.0.r2/5455
+type: file
+count: 0
+text: 1 10691 570 1402 6d515372eed1fb8b77509f26d7e2e27a f232e8e532d4e5b830c97af0654eae6bddf99666 1-1/_1m
+cpath: /src/main/java/PegasusPages/frmAddeBookLink.java
+copyroot: 0 /
+
+id: 1n-2.0.r2/5670
+type: file
+count: 0
+text: 1 11274 414 1007 94151354b5a2901ade37e3d0106948c0 a7f3bd49db384e0ea072a21a751e53691887b2e3 1-1/_1o
+cpath: /src/main/java/PegasusPages/frmlogin.java
+copyroot: 0 /
+
+PLAIN
+K 17
+ActionDriver.java
+V 19
+file 18-2.0.r2/4182
+K 19
+ContentBrowser.java
+V 19
+file 1b-2.0.r2/4393
+K 18
+HEDGlobalHome.java
+V 19
+file 1d-2.0.r2/4605
+K 22
+PreferencesMainUX.java
+V 19
+file 1f-2.0.r2/4816
+K 19
+TeachingPlanUX.java
+V 19
+file 1h-2.0.r2/5031
+K 17
+TodaysViewUX.java
+V 19
+file 1j-2.0.r2/5244
+K 20
+frmAddeBookLink.java
+V 19
+file 1l-2.0.r2/5455
+K 13
+frmlogin.java
+V 19
+file 1n-2.0.r2/5670
+END
+ENDREP
+id: 17-2.0.r2/6288
+type: dir
+count: 0
+text: 2 5878 397 0 4dc11c80028503dab974d2881cdfaaf4
+cpath: /src/main/java/PegasusPages
+copyroot: 0 /
+
+PLAIN
+K 9
+Libraries
+V 17
+dir o-2.0.r2/4046
+K 12
+PegasusPages
+V 18
+dir 17-2.0.r2/6288
+END
+ENDREP
+id: m-2.0.r2/6524
+type: dir
+count: 0
+text: 2 6428 83 0 9d4ededb2eae4f6769c93c5998edc624
+cpath: /src/main/java
+copyroot: 0 /
+
+PLAIN
+K 4
+java
+V 17
+dir m-2.0.r2/6524
+END
+ENDREP
+id: k-2.0.r2/6698
+type: dir
+count: 0
+text: 2 6649 36 0 1905730e52faf8722d69dc831ed4358a
+cpath: /src/main
+copyroot: 0 /
+
+id: 1u-2.0.r2/6818
+type: file
+count: 0
+text: 1 11701 321 304 043131b2537c4913baf37962659ab2ce cd04eed0cfc77515d08514c77a029c2e0cb08aae 1-1/_1w
+cpath: /src/test/java/Stories/LaunchEtextByEcollegeInstructor_RunnerClass.java
+copyroot: 0 /
+
+id: 1x-2.0.r2/7055
+type: file
+count: 0
+text: 1 12035 939 2747 dad37b6f413668263d777971c7c390db c2ced92213816cd9be87e53f3d1794bcdbfd87e3 1-1/_1y
+cpath: /src/test/java/Stories/LaunchEtextByEcollegeInstructor_StepClass.java
+copyroot: 0 /
+
+id: 1z-2.0.r2/7291
+type: file
+count: 0
+text: 1 12987 313 296 403c595051918ad5a4c9ffb90163a998 e310242b2d21cffd27b392f44e57f6c36897a0a7 1-1/_20
+cpath: /src/test/java/Stories/Set_etext_preferences_RunnerClass.java
+copyroot: 0 /
+
+id: 21-2.0.r2/7518
+type: file
+count: 0
+text: 1 13313 643 1710 aa99681eab50b8d02b4275992c1aea4b 8a314229980f8d86c489ef41767da0818c5df5e1 1-1/_22
+cpath: /src/test/java/Stories/Set_etext_preferences_StepClass.java
+copyroot: 0 /
+
+PLAIN
+K 48
+LaunchEtextByEcollegeInstructor_RunnerClass.java
+V 19
+file 1u-2.0.r2/6818
+K 46
+LaunchEtextByEcollegeInstructor_StepClass.java
+V 19
+file 1x-2.0.r2/7055
+K 38
+Set_etext_preferences_RunnerClass.java
+V 19
+file 1z-2.0.r2/7291
+K 36
+Set_etext_preferences_StepClass.java
+V 19
+file 21-2.0.r2/7518
+END
+ENDREP
+id: 1s-2.0.r2/8053
+type: dir
+count: 0
+text: 2 7744 296 0 f9b780aada66dced2bb176cf0c79c479
+cpath: /src/test/java/Stories
+copyroot: 0 /
+
+PLAIN
+K 7
+Stories
+V 18
+dir 1s-2.0.r2/8053
+END
+ENDREP
+id: 1q-2.0.r2/8241
+type: dir
+count: 0
+text: 2 8188 40 0 af3d2af221286a7c2357df3681f784e0
+cpath: /src/test/java
+copyroot: 0 /
+
+id: 26-2.0.r2/8367
+type: file
+count: 0
+text: 1 13969 302 531 7a080454e0382f222acbc1c115a2b03c 5c85754715d1b5729b36264e6f5f947bbcb4f0cd 1-1/_28
+cpath: /src/test/resources/Stories/Launch Etext By Ecollege Instructor.feature
+copyroot: 0 /
+
+id: 29-2.0.r2/8604
+type: file
+count: 0
+text: 1 14284 459 442 dc424d07bdd91e715fd6ac6decbb9c13 ee226021bdf4303898df1e82c026d3787a35d6de 1-1/_2a
+cpath: /src/test/resources/Stories/Set the etext preferences.feature
+copyroot: 0 /
+
+PLAIN
+K 43
+Launch Etext By Ecollege Instructor.feature
+V 19
+file 26-2.0.r2/8367
+K 33
+Set the etext preferences.feature
+V 19
+file 29-2.0.r2/8604
+END
+ENDREP
+id: 24-2.0.r2/8986
+type: dir
+count: 0
+text: 2 8831 142 0 7afbd53d1cf309fa8264b0789de69145
+cpath: /src/test/resources/Stories
+copyroot: 0 /
+
+PLAIN
+K 7
+Stories
+V 18
+dir 24-2.0.r2/8986
+END
+ENDREP
+id: 23-2.0.r2/9179
+type: dir
+count: 0
+text: 2 9126 40 0 a331ee6f885837e6e8e96f683700c7f7
+cpath: /src/test/resources
+copyroot: 0 /
+
+PLAIN
+K 4
+java
+V 18
+dir 1q-2.0.r2/8241
+K 9
+resources
+V 18
+dir 23-2.0.r2/9179
+END
+ENDREP
+id: 1p-2.0.r2/9398
+type: dir
+count: 0
+text: 2 9310 75 0 e3aa49c325e3fcdc1f9294fc4ece917a
+cpath: /src/test
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 17
+dir k-2.0.r2/6698
+K 4
+test
+V 18
+dir 1p-2.0.r2/9398
+END
+ENDREP
+id: j-2.0.r2/9601
+type: dir
+count: 0
+text: 2 9519 69 0 94fb9ce05d30c62dc2e2a04f47168575
+cpath: /src
+copyroot: 0 /
+
+id: 2c-2.0.r2/9716
+type: file
+count: 0
+text: 1 14756 15971 18247 31a060c269aeea2fb174a0fef2be9be4 d55b98433418f7ff19f173e85557a5d1c197fa51 1-1/_2e
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/Pegasus-0.0.1-SNAPSHOT.jar
+copyroot: 0 /
+
+id: 2i-2.0.r2/9973
+type: file
+count: 0
+text: 1 30740 573 1000 05d803a077ebac0cc76b7e082537635e c302092447d9da9212489220226c747fcecab6af 1-1/_2k
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/Libraries/EnumTest.class
+copyroot: 0 /
+
+id: 2l-2.0.r2/10233
+type: file
+count: 0
+text: 1 31326 549 944 6a0726bf8b47e545eaec4b76f6080f98 8c0b2bd537782a195ef0af8ac5e1a20be5d8c800 1-1/_2m
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/Libraries/PropertiesFileReader.class
+copyroot: 0 /
+
+id: 2n-2.0.r2/10505
+type: file
+count: 0
+text: 1 2882 760 945 0d0c56c842da2ea503219ee98b03c56f b3957acf864e414fcd9af6b8d688cca60c894cf3 1-1/_2o
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/Libraries/PropertiesFileReader.jar
+copyroot: 0 /
+
+id: 2p-2.0.r2/10774
+type: file
+count: 0
+text: 1 31888 1194 2492 96e9f8e919a2a528bb8584f4bdf03677 2f506bd31419ff61a3e6e05979cd4076e5873de5 1-1/_2q
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/Libraries/XMLReader.class
+copyroot: 0 /
+
+id: 2r-2.0.r2/11037
+type: file
+count: 0
+text: 1 5005 1343 1487 af8bdf0ed795222eb414e3895a6d705b 877cd2b9082b1cabb61310f2637c74bdb5499623 1-1/_2s
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/Libraries/XMLReader.jar
+copyroot: 0 /
+
+id: 2t-2.0.r2/11297
+type: file
+count: 0
+text: 1 33095 817 1351 8053a850f8e83eea8e6a379bc37706f8 2b9ca6a2163a7ac7c5763e1f8651c0e87a723219 1-1/_2u
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/Libraries/switchTest.class
+copyroot: 0 /
+
+PLAIN
+K 14
+EnumTest.class
+V 19
+file 2i-2.0.r2/9973
+K 26
+PropertiesFileReader.class
+V 20
+file 2l-2.0.r2/10233
+K 24
+PropertiesFileReader.jar
+V 20
+file 2n-2.0.r2/10505
+K 15
+XMLReader.class
+V 20
+file 2p-2.0.r2/10774
+K 13
+XMLReader.jar
+V 20
+file 2r-2.0.r2/11037
+K 16
+switchTest.class
+V 20
+file 2t-2.0.r2/11297
+END
+ENDREP
+id: 2g-2.0.r2/11876
+type: dir
+count: 0
+text: 2 11560 303 0 7a374bf581d27ec79e68755b85d5da8e
+cpath: /target/classes/Libraries
+copyroot: 0 /
+
+id: 2w-2.0.r2/12016
+type: file
+count: 0
+text: 1 33925 1740 3775 15469b40560f67cb1d1ecae38a197f48 b1cc521529aa9d04683b368edb5e2d7f07b97ab0 1-1/_2y
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/PegasusPages/ActionDriver.class
+copyroot: 0 /
+
+id: 2z-2.0.r2/12285
+type: file
+count: 0
+text: 1 35678 798 1448 454d96031bcf258fff633a411f50a622 d4b00d2fdff38ef517889d91f9176bcd140a9bc9 1-1/_30
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/PegasusPages/ContentBrowser.class
+copyroot: 0 /
+
+id: 31-2.0.r2/12555
+type: file
+count: 0
+text: 1 36489 1047 1901 7829d591acd1e4f187e0af2d6f18950c b0e984eb599dbecd4518a089f43ef2797b268e95 1-1/_32
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/PegasusPages/HEDGlobalHome.class
+copyroot: 0 /
+
+id: 33-2.0.r2/12825
+type: file
+count: 0
+text: 1 37549 809 1591 b6bc569abfa1d3ece9d58dbfd6048189 a017ae075b388ebab0cfabfd22fa1938c9be2e6b 1-1/_34
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/PegasusPages/PreferencesMainUX.class
+copyroot: 0 /
+
+id: 35-2.0.r2/13098
+type: file
+count: 0
+text: 1 38371 1963 3736 454b6e82e1f235a741948bf6c8399a9e fd520575ff179692ee6d3145c554b003e521ddcc 1-1/_36
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/PegasusPages/TeachingPlanUX.class
+copyroot: 0 /
+
+id: 37-2.0.r2/13369
+type: file
+count: 0
+text: 1 40347 768 1333 ee1eea5c7a6a362f588ad97aeeb421c0 f2c9cc2172dccdd72e8697004e92ae5e8676e30f 1-1/_38
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/PegasusPages/TodaysViewUX.class
+copyroot: 0 /
+
+id: 39-2.0.r2/13637
+type: file
+count: 0
+text: 1 41128 1269 2484 882d5f67535ddb5c0504149691f89257 970c63e9c4922653040e021f38b45e0a102c0aeb 1-1/_3a
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/PegasusPages/frmAddeBookLink.class
+copyroot: 0 /
+
+id: 3b-2.0.r2/13909
+type: file
+count: 0
+text: 1 42410 881 1571 9a4b0a716e436bc6e382322cb9d2f696 f18be0549e5c0cdcfd47f763f43a96158857f980 1-1/_3c
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/classes/PegasusPages/frmlogin.class
+copyroot: 0 /
+
+PLAIN
+K 18
+ActionDriver.class
+V 20
+file 2w-2.0.r2/12016
+K 20
+ContentBrowser.class
+V 20
+file 2z-2.0.r2/12285
+K 19
+HEDGlobalHome.class
+V 20
+file 31-2.0.r2/12555
+K 23
+PreferencesMainUX.class
+V 20
+file 33-2.0.r2/12825
+K 20
+TeachingPlanUX.class
+V 20
+file 35-2.0.r2/13098
+K 18
+TodaysViewUX.class
+V 20
+file 37-2.0.r2/13369
+K 21
+frmAddeBookLink.class
+V 20
+file 39-2.0.r2/13637
+K 14
+frmlogin.class
+V 20
+file 3b-2.0.r2/13909
+END
+ENDREP
+id: 2v-2.0.r2/14599
+type: dir
+count: 0
+text: 2 14173 413 0 5d1a0eb7c6bb2347a9528a8bc04f1e59
+cpath: /target/classes/PegasusPages
+copyroot: 0 /
+
+id: 3e-2.0.r2/14742
+type: file
+count: 0
+text: 1 13969 302 531 7a080454e0382f222acbc1c115a2b03c 5c85754715d1b5729b36264e6f5f947bbcb4f0cd 1-1/_3g
+cpath: /target/classes/Stories/Launch Etext By Ecollege Instructor.feature
+copyroot: 0 /
+
+id: 3h-2.0.r2/14976
+type: file
+count: 0
+text: 1 14284 459 442 dc424d07bdd91e715fd6ac6decbb9c13 ee226021bdf4303898df1e82c026d3787a35d6de 1-1/_3i
+cpath: /target/classes/Stories/Set the etext preferences.feature
+copyroot: 0 /
+
+PLAIN
+K 43
+Launch Etext By Ecollege Instructor.feature
+V 20
+file 3e-2.0.r2/14742
+K 33
+Set the etext preferences.feature
+V 20
+file 3h-2.0.r2/14976
+END
+ENDREP
+id: 3d-2.0.r2/15357
+type: dir
+count: 0
+text: 2 15200 144 0 5b713a07150da5451c8541f0393abcd1
+cpath: /target/classes/Stories
+copyroot: 0 /
+
+PLAIN
+K 9
+Libraries
+V 19
+dir 2g-2.0.r2/11876
+K 12
+PegasusPages
+V 19
+dir 2v-2.0.r2/14599
+K 7
+Stories
+V 19
+dir 3d-2.0.r2/15357
+END
+ENDREP
+id: 2f-2.0.r2/15631
+type: dir
+count: 0
+text: 2 15495 123 0 3a17b5e40c1196d00b7e12001dd544e8
+cpath: /target/classes
+copyroot: 0 /
+
+id: 3k-2.0.r2/15761
+type: file
+count: 0
+text: 1 43304 1760 6376 eece888b6db78c1ae70222e3be13ed13 c3f329df59df418ff36c86683168fd4ae8dba6f2 1-1/_3m
+cpath: /target/cucumber/formatter.js
+copyroot: 0 /
+
+id: 3n-2.0.r2/15959
+type: file
+count: 0
+text: 1 45077 362 345 a4c5ad3a3a5ea9955cade06f7e7f7704 4a6883a6048565a3f265b18f86fb7d82915e558a 1-1/_3o
+cpath: /target/cucumber/index.html
+copyroot: 0 /
+
+id: 3p-2.0.r2/16153
+type: file
+count: 0
+text: 1 45452 33694 93434 1d14cd3798bc4d6aaf65dd625870723f 0809f9f5caa2642b9dea8bf59133180bfd7c1d6f 1-1/_3q
+cpath: /target/cucumber/jquery-1.8.2.min.js
+copyroot: 0 /
+
+id: 3r-2.0.r2/16360
+type: file
+count: 0
+text: 1 79159 711 2500 c44001e8aeaf7945d97f32483e4fd005 e9b90b9dd3c994405d3ad0e5e1c8c93ce7d12aaa 1-1/_3s
+cpath: /target/cucumber/report.js
+copyroot: 0 /
+
+id: 3t-2.0.r2/16554
+type: file
+count: 0
+text: 1 79883 493 1459 ff9239f626fecece76d1092f3b14274c e6dccca4479ae442356b1e6930a3c0f125de306b 1-1/_3u
+cpath: /target/cucumber/style.css
+copyroot: 0 /
+
+PLAIN
+K 12
+formatter.js
+V 20
+file 3k-2.0.r2/15761
+K 10
+index.html
+V 20
+file 3n-2.0.r2/15959
+K 19
+jquery-1.8.2.min.js
+V 20
+file 3p-2.0.r2/16153
+K 9
+report.js
+V 20
+file 3r-2.0.r2/16360
+K 9
+style.css
+V 20
+file 3t-2.0.r2/16554
+END
+ENDREP
+id: 3j-2.0.r2/16982
+type: dir
+count: 0
+text: 2 16748 221 0 a8e1abd069b9df025e1a38105ac30235
+cpath: /target/cucumber
+copyroot: 0 /
+
+id: 3v-2.0.r2/17113
+type: file
+count: 0
+text: 1 80389 605 1844 1041302a6ce8da998dca6de914396871 d2e583e5ed59ddbb5d6455818fdf3b9a67978324 1-1/_3w
+cpath: /target/cucumber.json
+copyroot: 0 /
+
+id: 3y-2.0.r2/17302
+type: file
+count: 0
+text: 1 81007 318 301 9016df7aacaec2617e5f41b540aeeb03 4be2c4ea9f197a337b7638886f9791e1bd399545 1-1/_40
+cpath: /target/failsafe-reports/Stories.LaunchEtextByEcollegeInstructor_RunnerClass.txt
+copyroot: 0 /
+
+id: 41-2.0.r2/17549
+type: file
+count: 0
+text: 1 81338 1957 7563 244ceb7003ce5686e7a38f5cabfdc9cc fe5c5910529f7d3630ba39b833d4b7418e6ffa9b 1-1/_42
+cpath: /target/failsafe-reports/TEST-Stories.LaunchEtextByEcollegeInstructor_RunnerClass.xml
+copyroot: 0 /
+
+id: 43-2.0.r2/17803
+type: file
+count: 0
+text: 1 83308 72 60 466ed8436d72e4a5b5edc43a1d16d691 23ea79ee1a8772ba7b10116223b8644576a57e94 1-1/_44
+cpath: /target/failsafe-reports/failsafe-summary.xml
+copyroot: 0 /
+
+PLAIN
+K 55
+Stories.LaunchEtextByEcollegeInstructor_RunnerClass.txt
+V 20
+file 3y-2.0.r2/17302
+K 60
+TEST-Stories.LaunchEtextByEcollegeInstructor_RunnerClass.xml
+V 20
+file 41-2.0.r2/17549
+K 20
+failsafe-summary.xml
+V 20
+file 43-2.0.r2/17803
+END
+ENDREP
+id: 3x-2.0.r2/18261
+type: dir
+count: 0
+text: 2 18013 235 0 3da20a0a84ab7cce9b74ea9614745e82
+cpath: /target/failsafe-reports
+copyroot: 0 /
+
+id: 46-2.0.r2/18400
+type: file
+count: 0
+text: 1 83393 134 121 1235c8b0a2108f88039eebbdaf22f8fe 8c0cef382afb1393cdbb12a10ff6e82bb8309473 1-1/_48
+cpath: /target/maven-archiver/pom.properties
+copyroot: 0 /
+
+PLAIN
+K 14
+pom.properties
+V 20
+file 46-2.0.r2/18400
+END
+ENDREP
+id: 45-2.0.r2/18667
+type: dir
+count: 0
+text: 2 18604 50 0 15284b93744c22f0a85f809012c284c6
+cpath: /target/maven-archiver
+copyroot: 0 /
+
+id: 4c-2.0.r2/18803
+type: file
+count: 0
+text: 1 13969 302 531 7a080454e0382f222acbc1c115a2b03c 5c85754715d1b5729b36264e6f5f947bbcb4f0cd 1-1/_4e
+cpath: /target/test-classes/Stories/Launch Etext By Ecollege Instructor.feature
+copyroot: 0 /
+
+id: 4f-2.0.r2/19042
+type: file
+count: 0
+text: 1 83540 446 750 9da66a986c3c79ed6ce2432aea2fe86e f759f1a16f6bb0c2b750adda14a34ee945ab0d46 1-1/_4g
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/test-classes/Stories/LaunchEtextByEcollegeInstructor_RunnerClass.class
+copyroot: 0 /
+
+id: 4h-2.0.r2/19340
+type: file
+count: 0
+text: 1 83999 1518 3568 fcdae1561fdaefaebfbc7e51df0b5d1f d1dae0126882ca71ead1e7369a49b9ca546ccada 1-1/_4i
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/test-classes/Stories/LaunchEtextByEcollegeInstructor_StepClass.class
+copyroot: 0 /
+
+id: 4j-2.0.r2/19638
+type: file
+count: 0
+text: 1 14284 459 442 dc424d07bdd91e715fd6ac6decbb9c13 ee226021bdf4303898df1e82c026d3787a35d6de 1-1/_4k
+cpath: /target/test-classes/Stories/Set the etext preferences.feature
+copyroot: 0 /
+
+id: 4l-2.0.r2/19867
+type: file
+count: 0
+text: 1 85530 437 724 9d40d8819f4c8afae2735d5e4da1527f c1d2073be2d23c633235689d970bb04dafb5aa65 1-1/_4m
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/test-classes/Stories/Set_etext_preferences_RunnerClass.class
+copyroot: 0 /
+
+id: 4n-2.0.r2/20155
+type: file
+count: 0
+text: 1 85980 1150 2484 4c1b0524b4334f0c9ffb1307fbf0faed 034dd44288ce46cb36333f32625c143d2b1b9e35 1-1/_4o
+props: 1 89333 53 0 113136892f2137aa0116093a524ade0b
+cpath: /target/test-classes/Stories/Set_etext_preferences_StepClass.class
+copyroot: 0 /
+
+PLAIN
+K 43
+Launch Etext By Ecollege Instructor.feature
+V 20
+file 4c-2.0.r2/18803
+K 49
+LaunchEtextByEcollegeInstructor_RunnerClass.class
+V 20
+file 4f-2.0.r2/19042
+K 47
+LaunchEtextByEcollegeInstructor_StepClass.class
+V 20
+file 4h-2.0.r2/19340
+K 33
+Set the etext preferences.feature
+V 20
+file 4j-2.0.r2/19638
+K 39
+Set_etext_preferences_RunnerClass.class
+V 20
+file 4l-2.0.r2/19867
+K 37
+Set_etext_preferences_StepClass.class
+V 20
+file 4n-2.0.r2/20155
+END
+ENDREP
+id: 4a-2.0.r2/20900
+type: dir
+count: 0
+text: 2 20443 444 0 d87c24cbeaa011d89f4d1f1d419cd93b
+cpath: /target/test-classes/Stories
+copyroot: 0 /
+
+PLAIN
+K 7
+Stories
+V 19
+dir 4a-2.0.r2/20900
+END
+ENDREP
+id: 49-2.0.r2/21097
+type: dir
+count: 0
+text: 2 21043 41 0 89fec7e68553f0e52694f2448f2a8e2a
+cpath: /target/test-classes
+copyroot: 0 /
+
+PLAIN
+K 26
+Pegasus-0.0.1-SNAPSHOT.jar
+V 19
+file 2c-2.0.r2/9716
+K 7
+classes
+V 19
+dir 2f-2.0.r2/15631
+K 8
+cucumber
+V 19
+dir 3j-2.0.r2/16982
+K 13
+cucumber.json
+V 20
+file 3v-2.0.r2/17113
+K 16
+failsafe-reports
+V 19
+dir 3x-2.0.r2/18261
+K 14
+maven-archiver
+V 19
+dir 45-2.0.r2/18667
+K 12
+test-classes
+V 19
+dir 49-2.0.r2/21097
+END
+ENDREP
+id: 2b-2.0.r2/21560
+type: dir
+count: 0
+text: 2 21231 316 0 a35d9dfcd50d93800954c379fe0bc5dd
+cpath: /target
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 15
+file 0-2.0.r2/0
+K 8
+.project
+V 17
+file 3-2.0.r2/169
+K 9
+.settings
+V 17
+dir 5-2.0.r2/1127
+K 7
+App.xml
+V 18
+file d-2.0.r2/1248
+K 17
+Config.properties
+V 18
+file f-2.0.r2/1419
+K 8
+branches
+V 18
+dir 0-1.0.r1/87143
+K 7
+pom.xml
+V 18
+file h-2.0.r2/1598
+K 3
+src
+V 17
+dir j-2.0.r2/9601
+K 4
+tags
+V 18
+dir 2-1.0.r1/87213
+K 6
+target
+V 19
+dir 2b-2.0.r2/21560
+K 5
+trunk
+V 19
+dir 3-1.0.r1/110039
+END
+ENDREP
+id: 0.0.r2/22100
+type: dir
+pred: 0.0.r1/110283
+count: 2
+text: 2 21682 405 0 646bb0cb5aa59851b082c396a0952a04
+cpath: /
+copyroot: 0 /
+
+_0.0.t1-1 add-file true false /.classpath
+
+_3.0.t1-1 add-file true false /.project
+
+_5.0.t1-1 add-dir false false /.settings
+
+_6.0.t1-1 add-file true false /.settings/org.eclipse.core.resources.prefs
+
+_9.0.t1-1 add-file true false /.settings/org.eclipse.jdt.core.prefs
+
+_b.0.t1-1 add-file true false /.settings/org.eclipse.m2e.core.prefs
+
+_d.0.t1-1 add-file true false /App.xml
+
+_f.0.t1-1 add-file true false /Config.properties
+
+_h.0.t1-1 add-file true false /pom.xml
+
+_j.0.t1-1 add-dir false false /src
+
+_k.0.t1-1 add-dir false false /src/main
+
+_m.0.t1-1 add-dir false false /src/main/java
+
+_o.0.t1-1 add-dir false false /src/main/java/Libraries
+
+_q.0.t1-1 add-file true false /src/main/java/Libraries/EnumTest.java
+
+_t.0.t1-1 add-file true true /src/main/java/Libraries/PropertiesFileReader.class
+
+_v.0.t1-1 add-file true true /src/main/java/Libraries/PropertiesFileReader.jar
+
+_x.0.t1-1 add-file true false /src/main/java/Libraries/PropertiesFileReader.java
+
+_z.0.t1-1 add-file true true /src/main/java/Libraries/XMLReader.class
+
+_11.0.t1-1 add-file true true /src/main/java/Libraries/XMLReader.jar
+
+_13.0.t1-1 add-file true false /src/main/java/Libraries/XMLReader.java
+
+_15.0.t1-1 add-file true false /src/main/java/Libraries/switchTest.java
+
+_17.0.t1-1 add-dir false false /src/main/java/PegasusPages
+
+_18.0.t1-1 add-file true false /src/main/java/PegasusPages/ActionDriver.java
+
+_1b.0.t1-1 add-file true false /src/main/java/PegasusPages/ContentBrowser.java
+
+_1d.0.t1-1 add-file true false /src/main/java/PegasusPages/HEDGlobalHome.java
+
+_1f.0.t1-1 add-file true false /src/main/java/PegasusPages/PreferencesMainUX.java
+
+_1h.0.t1-1 add-file true false /src/main/java/PegasusPages/TeachingPlanUX.java
+
+_1j.0.t1-1 add-file true false /src/main/java/PegasusPages/TodaysViewUX.java
+
+_1l.0.t1-1 add-file true false /src/main/java/PegasusPages/frmAddeBookLink.java
+
+_1n.0.t1-1 add-file true false /src/main/java/PegasusPages/frmlogin.java
+
+_1p.0.t1-1 add-dir false false /src/test
+
+_1q.0.t1-1 add-dir false false /src/test/java
+
+_1s.0.t1-1 add-dir false false /src/test/java/Stories
+
+_1u.0.t1-1 add-file true false /src/test/java/Stories/LaunchEtextByEcollegeInstructor_RunnerClass.java
+
+_1x.0.t1-1 add-file true false /src/test/java/Stories/LaunchEtextByEcollegeInstructor_StepClass.java
+
+_1z.0.t1-1 add-file true false /src/test/java/Stories/Set_etext_preferences_RunnerClass.java
+
+_21.0.t1-1 add-file true false /src/test/java/Stories/Set_etext_preferences_StepClass.java
+
+_23.0.t1-1 add-dir false false /src/test/resources
+
+_24.0.t1-1 add-dir false false /src/test/resources/Stories
+
+_26.0.t1-1 add-file true false /src/test/resources/Stories/Launch Etext By Ecollege Instructor.feature
+
+_29.0.t1-1 add-file true false /src/test/resources/Stories/Set the etext preferences.feature
+
+_2b.0.t1-1 add-dir false false /target
+
+_2c.0.t1-1 add-file true true /target/Pegasus-0.0.1-SNAPSHOT.jar
+
+_2f.0.t1-1 add-dir false false /target/classes
+
+_2g.0.t1-1 add-dir false false /target/classes/Libraries
+
+_2i.0.t1-1 add-file true true /target/classes/Libraries/EnumTest.class
+
+_2l.0.t1-1 add-file true true /target/classes/Libraries/PropertiesFileReader.class
+
+_2n.0.t1-1 add-file true true /target/classes/Libraries/PropertiesFileReader.jar
+
+_2p.0.t1-1 add-file true true /target/classes/Libraries/XMLReader.class
+
+_2r.0.t1-1 add-file true true /target/classes/Libraries/XMLReader.jar
+
+_2t.0.t1-1 add-file true true /target/classes/Libraries/switchTest.class
+
+_2v.0.t1-1 add-dir false false /target/classes/PegasusPages
+
+_2w.0.t1-1 add-file true true /target/classes/PegasusPages/ActionDriver.class
+
+_2z.0.t1-1 add-file true true /target/classes/PegasusPages/ContentBrowser.class
+
+_31.0.t1-1 add-file true true /target/classes/PegasusPages/HEDGlobalHome.class
+
+_33.0.t1-1 add-file true true /target/classes/PegasusPages/PreferencesMainUX.class
+
+_35.0.t1-1 add-file true true /target/classes/PegasusPages/TeachingPlanUX.class
+
+_37.0.t1-1 add-file true true /target/classes/PegasusPages/TodaysViewUX.class
+
+_39.0.t1-1 add-file true true /target/classes/PegasusPages/frmAddeBookLink.class
+
+_3b.0.t1-1 add-file true true /target/classes/PegasusPages/frmlogin.class
+
+_3d.0.t1-1 add-dir false false /target/classes/Stories
+
+_3e.0.t1-1 add-file true false /target/classes/Stories/Launch Etext By Ecollege Instructor.feature
+
+_3h.0.t1-1 add-file true false /target/classes/Stories/Set the etext preferences.feature
+
+_3j.0.t1-1 add-dir false false /target/cucumber
+
+_3v.0.t1-1 add-file true false /target/cucumber.json
+
+_3k.0.t1-1 add-file true false /target/cucumber/formatter.js
+
+_3n.0.t1-1 add-file true false /target/cucumber/index.html
+
+_3p.0.t1-1 add-file true false /target/cucumber/jquery-1.8.2.min.js
+
+_3r.0.t1-1 add-file true false /target/cucumber/report.js
+
+_3t.0.t1-1 add-file true false /target/cucumber/style.css
+
+_3x.0.t1-1 add-dir false false /target/failsafe-reports
+
+_3y.0.t1-1 add-file true false /target/failsafe-reports/Stories.LaunchEtextByEcollegeInstructor_RunnerClass.txt
+
+_41.0.t1-1 add-file true false /target/failsafe-reports/TEST-Stories.LaunchEtextByEcollegeInstructor_RunnerClass.xml
+
+_43.0.t1-1 add-file true false /target/failsafe-reports/failsafe-summary.xml
+
+_45.0.t1-1 add-dir false false /target/maven-archiver
+
+_46.0.t1-1 add-file true false /target/maven-archiver/pom.properties
+
+_49.0.t1-1 add-dir false false /target/test-classes
+
+_4a.0.t1-1 add-dir false false /target/test-classes/Stories
+
+_4c.0.t1-1 add-file true false /target/test-classes/Stories/Launch Etext By Ecollege Instructor.feature
+
+_4f.0.t1-1 add-file true true /target/test-classes/Stories/LaunchEtextByEcollegeInstructor_RunnerClass.class
+
+_4h.0.t1-1 add-file true true /target/test-classes/Stories/LaunchEtextByEcollegeInstructor_StepClass.class
+
+_4j.0.t1-1 add-file true false /target/test-classes/Stories/Set the etext preferences.feature
+
+_4l.0.t1-1 add-file true true /target/test-classes/Stories/Set_etext_preferences_RunnerClass.class
+
+_4n.0.t1-1 add-file true true /target/test-classes/Stories/Set_etext_preferences_StepClass.class
+
+
+22100 22233
